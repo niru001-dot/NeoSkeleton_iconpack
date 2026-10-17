@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <scale factor="1.0" />
+
+    <!-- Google & System Apps -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivity}" drawable="gmail" />
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps" />
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity}" drawable="youtube" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.sec.android.app.gallery3d/com.sec.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.android.providers.telephony/com.android.providers.telephony.SmsReceiver}" drawable="messages" />
+    <item component="ComponentInfo{com.android.phone/com.android.phone.Dialer}" drawable="phone" />
+    <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock" />
+    <item component="ComponentInfo{com.android.vending/com.google.android.finsky.activities.MainActivity}" drawable="playstore" />
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="photos" />
+
+    <!-- Social & Communication -->
+    <item component="ComponentInfo{com.instagram.android/com.instagram.mainactivity.MainActivity}" drawable="instagram" />
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.HomeActivity}" drawable="whatsapp" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{com.twitter.android/com.twitter.app.main.MainActivity}" drawable="x" />
+    <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.landingpage.LandingPageActivity}" drawable="snapchat" />
+    <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LoginLoginActivity}" drawable="linkedin" />
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
+    <item component="ComponentInfo{com.reddit.frontpage/com.reddit.launch.RedditActivity}" drawable="reddit" />
+
+    <!-- Utilities, AI & Custom Branding -->
+    <item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />
+    <item component="ComponentInfo{com.ncoredynamics.ai/com.ncoredynamics.ai.MainActivity}" drawable="ncore_ai" />
+    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
+    <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="voice_recorder" />
+    <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todo.MainActivity}" drawable="notes" />
+</resources>
